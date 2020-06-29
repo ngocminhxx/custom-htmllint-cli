@@ -23,7 +23,7 @@
     "chalk": "^2.4.0",
     "cjson": "^0.5.0",
     "glob": "^7.1.2",
-    "htmllint": "git+https://github.com/ngocminhxx/gulp-htmllint",
+    "htmllint": "git+https://github.com/ngocminhxx/gulp-htmllint.git",
     "liftoff": "^2.5.0",
     "semver": "^5.5.0",
     "yargs": "^11.0.0"
