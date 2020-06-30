@@ -8,13 +8,13 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ngocminhxx/htmllint-cli"
+    "url": "https://github.com/ngocminhxx/custom-htmllint-cli"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/htmllint/htmllint-cli/issues"
   },
-  "homepage": "https://github.com/ngocminhxx/htmllint-cli",
+  "homepage": "https://github.com/ngocminhxx/custom-htmllint-cli",
   "engines": {
     "node": ">=4"
   },
